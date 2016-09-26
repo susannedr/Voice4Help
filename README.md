@@ -17,3 +17,4 @@ Within this project, step 1 is either carried out with an emergency watch or wit
 
 Step 2 and 3 are carried out with an Amazon Echo device that starts a dialog to check whether an alarm is true and which severity it has.
 
+The pitch of the Hackathon project is here:https://github.com/susannedr/Voice4Help/issues/2
