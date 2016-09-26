@@ -1,4 +1,4 @@
-# smart-emergency-button
+# Voice4Help
 
 ### We want to improve the conventional emergency systems since we identified several shortcomings.<br>
 Some of them are:<br>
