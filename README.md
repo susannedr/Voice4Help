@@ -17,6 +17,14 @@ Within this project, step 1 is either carried out with an emergency watch or wit
 
 Step 2 and 3 are carried out with an Amazon Echo device that starts a dialog to check whether an alarm is true and which severity it has.
 
-### Step 1 with Amazon Echo:
+### Step 1 with Limmex Watch:
+
+A watch that contains an acceleration sensor and an alarm function to give out an acoustic alarm is used.<br>
+
+The acceleration signal is detected continuously. If a specific pattern is determined, an alarm is triggered. As a trigger pattern, three hits are chosen.<br>
+
+In the recorded test data, three acceleration peaks are clearly visible:<br>
+
+![](https://cloud.githubusercontent.com/assets/22429096/18816645/47265ee8-834e-11e6-9ca5-68a34bece510.jpg)
 
 
